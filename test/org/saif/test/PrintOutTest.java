@@ -20,6 +20,7 @@ public class PrintOutTest {
 	@Test
 	public void testGetName() {
 		printOut.getName();
+		
 	}
 
 }
