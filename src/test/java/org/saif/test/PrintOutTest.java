@@ -31,5 +31,9 @@ public class PrintOutTest {
 	public void testGetName3(){
 		System.out.println(printOut.getName2(0));
 	}
+	@Test
+	public void testGetName4(){
+		System.out.println(printOut.getName2(1));
+	}
 
 }
