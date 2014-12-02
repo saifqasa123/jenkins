@@ -27,5 +27,9 @@ public class PrintOutTest {
 	public void testGetName2(){
 		System.out.println(printOut.getName2(3));
 	}
+	@Test
+	public void testGetName3(){
+		System.out.println(printOut.getName2(0));
+	}
 
 }
