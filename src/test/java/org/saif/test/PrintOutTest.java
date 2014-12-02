@@ -22,5 +22,10 @@ public class PrintOutTest {
 		printOut.getName();
 		
 	}
+	
+	@Test
+	public void testGetName2(){
+		System.out.println(printOut.getName2(3));
+	}
 
 }
