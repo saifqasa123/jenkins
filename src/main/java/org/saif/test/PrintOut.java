@@ -6,7 +6,7 @@ package org.saif.test;
  */
 public class PrintOut {
 	/*
-	 * getName!11
+	 * getName!!
 	 */
 	public void getName(){
 		System.out.println("my namd is shitt");
