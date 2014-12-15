@@ -25,7 +25,7 @@ public class PrintOutTest {
 	
 	@Test
 	public void testGetName2(){
-		System.out.println(printOut.getName2(3));
+		System.out.println(printOut.getName2(0));
 	}
 	@Test
 	public void testGetName3(){
@@ -33,7 +33,7 @@ public class PrintOutTest {
 	}
 	@Test
 	public void testGetName4(){
-		System.out.println(printOut.getName2(1));
+		System.out.println(printOut.getName2(0));
 	}
 
 }
