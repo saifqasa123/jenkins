@@ -7,7 +7,7 @@ package org.saif.test;
 public class PrintOut {
 	/*
 
-	 * getName jenkins_12
+	 * getName jenkins_12sdf
 
 	 */
 	public void getName(){
