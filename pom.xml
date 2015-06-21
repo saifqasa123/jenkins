@@ -13,7 +13,7 @@
         <dependency>
 	         <groupId>commons-discovery</groupId>
 	         <artifactId>commons-discovery</artifactId>
-	         <version>0.5</version>
+	         <version>0.15</version>
 	         <scope>test</scope> 
     	</dependency>
     </dependencies>
